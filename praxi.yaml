@@ -1,0 +1,15 @@
+version: 2.0
+
+id: learning-to-play-the-piano
+
+about:
+  title: Learning to Play the Piano
+  description: Learning how to play the piano
+
+contacts:
+  - type: author
+    name: Gonzalo Vazquez
+    email: gonzalovazquez010@gmail.com
+
+priority:
+  - type: low
